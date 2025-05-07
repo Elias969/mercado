@@ -28,3 +28,8 @@ Este é um projeto de exemplo para um sistema de mercado virtual. Ele foi desenv
    ```bash
    git clone https://github.com/seu-usuario/marketplace.git
    cd marketplace
+2. Rode o projeto:
+   ```bash
+   cd backend
+   python appy.py
+
